@@ -12,5 +12,5 @@ A simple command built with Node.js that performs tasks such as printing message
 To install this, run:
 
 ```
-npm install digistar-npm-fzh@1.1.3
+npm install digistar-npm-fzh
 ```
