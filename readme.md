@@ -1,4 +1,4 @@
-# Simple command
+# Digistar Class 2024 Day 1: Node Package Manager
 A simple command built with Node.js that performs tasks such as printing messages, adding numbers, and reversing strings.
 
 ## Features
